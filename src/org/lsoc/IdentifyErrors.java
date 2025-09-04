@@ -10,8 +10,7 @@ public class IdentifyErrors {
 			 * print out hello world on 1 line,
 			 * 
 			 */;
-			System.out.println("hello");
-			System.out.println("world");
+			System.out.println("hello world");
 		} catch (Exception e) {
 			System.out.println(
 					e);
